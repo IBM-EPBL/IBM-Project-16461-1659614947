@@ -13,7 +13,7 @@ file = open("d:\IBM PROJECT\Project Development Phase\Sprint 2\Flask Application
 gbc = pickle.load(file)
 file.close()
 
-app=Flask(__name__,template_folder='templates',)
+app=Flask(__name__,template_folder='templates')
 
 @app.route("/", methods=["GET", "POST"])
 def index():
