@@ -9,11 +9,11 @@ import pickle
 warnings.filterwarnings('ignore')
 from feature import FeatureExtraction
 
-file = open("pickle/Web Phishing Detection.pkl","rb")
+file = open("Web Phishing Detection.pkl","rb")
 gbc = pickle.load(file)
 file.close()
 
-app=Flask(__name__,template_folder='templates')
+app=Flask(__name__)
 
 @app.route("/", methods=["GET", "POST"])
 def index():
