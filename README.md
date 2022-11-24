@@ -31,6 +31,30 @@
 -Save the model and its dependencies.
 -Build a Web application using a flask that integrates with the model built.
 
+## Pre-Requisites: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" />
+
+### In order to develop this project we need to install the following software/packages:
+#### Step 1:
+#### Anaconda Navigator :
+naconda Navigator is a free and open-source distribution of the Python and R programming languages for data science and machine learning related applications. It can be installed on Windows, Linux, and macOS. Conda is an open-source, cross-platform,  package management system. Anaconda comes with great tools like JupyterLab, Jupyter Notebook, QtConsole, Spyder, Glueviz, Orange, Rstudio, Visual Studio Code.
+
+#### Step 2:
+To build Machine learning models you must require the following packages
+#### Sklearn: Scikit-learn is a library in Python that provides many unsupervised and supervised learning algorithms.
+#### NumPy: NumPy is a Python package that stands for 'Numerical Python'. It is the core library for scientific computing, which contains a powerful n-dimensional array object  
+#### Pandas: pandas is a fast, powerful, flexible, and easy to use open source data analysis and manipulation tool,built on top of the Python programming language.
+#### Matplotlib: It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits.
+#### Flask: Web framework used for building Web applications.
+
+If you are using anaconda navigator, follow below steps to download required packages:
+
+1.Open anaconda prompt.
+2.Type “pip install numpy” and click enter.
+3.Type “pip install pandas”and click enter.
+4.Type “pip install matplotlib”and click enter.
+5.Type“pip install scikit-learn”and click enter.
+6.Type“pip install Flask”and click enter.
+
 ## Introduction : <picture> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f38a/512.gif" alt="🎊" width="30" height="30"></picture>
 There are a number of users who purchase products online and make payments through e-banking. There are e-banking websites that ask users to provide sensitive data such as username, password & credit card details, etc., often for malicious reasons. This type of e-banking website is known as a phishing website. Web service is one of the key communications software services for the Internet. Web phishing is one of many security threats to web services on the Internet. 
 
