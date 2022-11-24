@@ -40,19 +40,24 @@ naconda Navigator is a free and open-source distribution of the Python and R pro
 
 #### Step 2:
 To build Machine learning models you must require the following packages
-#### Sklearn: >Scikit-learn is a library in Python that provides many unsupervised and supervised learning algorithms.
-#### NumPy: >NumPy is a Python package that stands for 'Numerical Python'. It is the core library for scientific computing, which contains a powerful n-dimensional array object  
-#### Pandas: >pandas is a fast, powerful, flexible, and easy to use open source data analysis and manipulation tool,built on top of the Python programming language.
-#### Matplotlib: >It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits.
-#### Flask: >Web framework used for building Web applications.
+**Sklearn:** Scikit-learn is a library in Python that provides many unsupervised and supervised learning algorithms.
+**NumPy:** NumPy is a Python package that stands for 'Numerical Python'. It is the core library for scientific computing, which contains a powerful n-dimensional array object  
+**Pandas:** pandas is a fast, powerful, flexible, and easy to use open source data analysis and manipulation tool,built on top of the Python programming language.
+**Matplotlib:** It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits.
+**Flask:** Web framework used for building Web applications.
 
 If you are using anaconda navigator, follow below steps to download required packages:
 
 >1.Open anaconda prompt.
+   
 >2.Type “pip install numpy” and click enter.
+   
 >3.Type “pip install pandas”and click enter.
+   
 >4.Type “pip install matplotlib”and click enter.
+   
 >5.Type“pip install scikit-learn”and click enter.
+   
 >6.Type“pip install Flask”and click enter.
 
 ## Introduction : <picture> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f38a/512.gif" alt="🎊" width="30" height="30"></picture>
